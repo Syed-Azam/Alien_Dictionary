@@ -1,4 +1,4 @@
-![Picture](https://i.ibb.co/C74xX0z/Clipboard01.jpg)
+![Picture](https://i.ibb.co/3d19RQk/Clipboard01.png)
 **Presidential Initiative for Artificial Intelligence and Computing**
 
 ## **New Project Assignment**
