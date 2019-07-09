@@ -1,5 +1,4 @@
 ![Picture](https://i.ibb.co/3d19RQk/Clipboard01.png)
-**Presidential Initiative for Artificial Intelligence and Computing**
 
 ## **New Project Assignment**
 ## **Persistent Dictionary For Alien Civilization**
