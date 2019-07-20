@@ -77,12 +77,12 @@ while True:
         try:
             with open("alien_dict.json") as ad:
                 d = json.load(ad)
-                a = input("Enter a Alien Word: ")
                 e = input("Enter English Translation: ")
+                a = input("Enter a Alien Word: ")
                 if a.strip() == "" or e.strip() == "":
                     print("Blank Words Can't Add")
                 else:
-                    d[a] = e
+                    d[e] = a
                     with open("alien_dict.json", "w") as ad:
                         json.dump(d, ad)
                         print("Word added in Alien Dictioanry")
